@@ -1,2 +1,2 @@
 # MoniPlan
-Budget tracking regulator
+Budget tracking regulator using tailwind and javascript
