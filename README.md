@@ -1,2 +1,2 @@
-# MoniPlan
-Budget tracking regulator using tailwind and javascript
+# COINIFT
+A crypto currency app using Tailwind, Javascript.
